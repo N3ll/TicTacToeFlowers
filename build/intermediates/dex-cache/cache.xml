@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Nelly/Developerin/Android/0501 TicTacToeSolution/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="85a72d54188822e84d7d42665d24123d43097c03">
+        <dex dex="/Users/Nelly/Developerin/Android/0501 TicTacToeSolution/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a28ba72e5ee45d146a78d09c4f687760b2feb082/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Nelly/Developerin/Android/0501 TicTacToeSolution/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/Users/Nelly/Developerin/Android/0501 TicTacToeSolution/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.0.0_34fbde0b2ad854590c7b2ef7ffdfb44328ac9d90/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Nelly/Developerin/Android/0501 TicTacToeSolution/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/Users/Nelly/Developerin/Android/0501 TicTacToeSolution/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.0_8fe5142bf8cf744beb6ef37d35c31887dab432f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Nelly/Developerin/Android/0501 TicTacToeSolution/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6981602099687863ed988880f067abc7193f1f4f">
+        <dex dex="/Users/Nelly/Developerin/Android/0501 TicTacToeSolution/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_33e880dc2d4c3271acf37d7bfad83f4e25451330/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Nelly/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/Users/Nelly/Developerin/Android/0501 TicTacToeSolution/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.0.0_6840a1e3002f3da894886098f121103d380fe638/classes.dex" />
+    </item>
+
+</items>

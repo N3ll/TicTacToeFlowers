@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    api-level="22"
+    density="xhdpi"
+    format="8"
+    plugin-version="2.2.0"
+    timestamp="20902413123765"
+    token="-1026818505473882476"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="174" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="43" />
+    <task
+        name="verifier"
+        duration="8" />
+
+    <artifact
+        location="/Users/Nelly/Developerin/Android/0501 TicTacToeSolution/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="20902413123765"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/Nelly/Developerin/Android/0501 TicTacToeSolution/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

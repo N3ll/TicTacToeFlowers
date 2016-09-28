@@ -1,0 +1,7 @@
+#Wed Sep 28 17:03:30 CEST 2016
+base.0=/Users/Nelly/Developerin/Android/0501 TicTacToeSolution/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a28ba72e5ee45d146a78d09c4f687760b2feb082
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/Nelly/Developerin/Android/0501 TicTacToeSolution/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_33e880dc2d4c3271acf37d7bfad83f4e25451330/classes.dex
+base.1=/Users/Nelly/Developerin/Android/0501 TicTacToeSolution/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_33e880dc2d4c3271acf37d7bfad83f4e25451330
+file.0=/Users/Nelly/Developerin/Android/0501 TicTacToeSolution/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a28ba72e5ee45d146a78d09c4f687760b2feb082/classes.dex

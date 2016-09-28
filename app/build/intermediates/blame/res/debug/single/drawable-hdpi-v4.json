@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/Nelly/Developerin/Android/0501 TicTacToeSolution/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/kryds.jpg",
+        "source": "/Users/Nelly/Developerin/Android/0501 TicTacToeSolution/app/src/main/res/drawable-hdpi/kryds.jpg"
+    },
+    {
+        "merged": "/Users/Nelly/Developerin/Android/0501 TicTacToeSolution/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bolle.jpeg",
+        "source": "/Users/Nelly/Developerin/Android/0501 TicTacToeSolution/app/src/main/res/drawable-hdpi/bolle.jpeg"
+    },
+    {
+        "merged": "/Users/Nelly/Developerin/Android/0501 TicTacToeSolution/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/blank.jpg",
+        "source": "/Users/Nelly/Developerin/Android/0501 TicTacToeSolution/app/src/main/res/drawable-hdpi/blank.jpg"
+    }
+]
